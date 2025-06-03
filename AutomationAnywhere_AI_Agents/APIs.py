@@ -5,8 +5,8 @@ import json
 # curl -X 'POST' \
 #   'https://api.getodin.ai/project/search' \
 #   -H 'accept: application/json' \
-#   -H 'X-API-KEY: 45d56382-9229-4fbd-a9af-931498e1f416' \
-#   -H 'X-API-SECRET: JBA2gA+d3+sC93wNJ4oChVomefLeVgQpm9sBUx4B3e8=' \
+#   -H 'X-API-KEY: ' \
+#   -H 'X-API-SECRET: ' \
 #   -H 'Content-Type: application/json' \
 #   -d '{
 #   "project_id": "040ece4f7b184cf4a7c512",
